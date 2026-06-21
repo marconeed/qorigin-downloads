@@ -1,1 +1,1 @@
-Repositório oficial para distribuição dos softwares da QOrigin.
+Official repository for distributing QOrigin software.
